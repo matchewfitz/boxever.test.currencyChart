@@ -1,0 +1,36 @@
+h1{
+	font-size: 24pt;
+	font-weight: bold;
+	font-family: helvetica, arial, sans-serif;
+}
+
+#statusPane{
+	font-size:8pt;
+	font-family: helvetica, arial, sans-serif;
+	color: #888888;
+	padding-top: 30px;
+}
+
+#euroChartContainer{
+	width: 900px; 
+	height: 500px;
+	font-size: 8pt;
+	font-family: helvetica, arial, sans-serif;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.x.axis path {
+	display: none;
+}
+
+.line {
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 1.5px;
+}
