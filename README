@@ -1,4 +1,8 @@
-This is your new Play 2.0 application
+CurrencyChart
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+Matt Fitzpatrick
+
+This application comprises a java backend and a javascript/HTML frontend.
+
+It's awesome.
