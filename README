@@ -7,4 +7,20 @@ Written in two days.
 
 This application comprises a java backend and a javascript/HTML frontend.
 
+This application is developed on the Play 2.0 framework and requires Play 2.0 to run. 
+
+To run the application, browse to the source directory and execute "play compile" (for first execution) and then "play run".
+
+The application will request the latest ECB trading figures for the Euro against various currencies and display a chart based on this data comparing the current EUR value in USD.
+
+The chart can be viewed at localhost:9000
+
+TODO:
+
+*Improve business logic to allow users to specify currency.
+
+*Tidy up XML parsing
+
+
+
 It's awesome.
